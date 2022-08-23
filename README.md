@@ -1,1 +1,1 @@
-# Handwritten Digits Recognizer using Neural Networks
+# Handwritten Digits Recognizer using Neural Networks (MNIST)
